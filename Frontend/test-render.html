@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>React Render Test</title>
+</head>
+<body>
+  <div id="root" style="padding: 20px; background: #f0f0f0;">
+    <h1>If you see this, React is NOT rendering</h1>
+    <p>Check browser console (F12) for JavaScript errors</p>
+  </div>
+  <script>
+    console.log('HTML loaded, checking for React...');
+    setTimeout(() => {
+      const root = document.getElementById('root');
+      if (root && root.children.length === 0) {
+        console.error('❌ React did not render - root element is empty');
+      } else {
+        console.log('✅ React rendered content');
+      }
+    }, 2000);
+  </script>
+</body>
+</html>

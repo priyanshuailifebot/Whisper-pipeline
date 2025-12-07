@@ -1,0 +1,190 @@
+{
+  "title": "Startups Incubated at Nasscom AI Center of Excellence",
+  "description": "Complete list of 18 deep-tech startups incubated and supported by the Nasscom AI Center of Excellence (CoE)",
+  "total_startups": 18,
+  "last_updated": "2025-01-27",
+  "startups": [
+    {
+      "id": 1,
+      "name": "Atomo Innovation",
+      "description": "Indigenous, AI-powered edge computing hardware built for real-time industrial automation. Low power, scalable, interoperable, and made for harsh industrial environments.",
+      "sector": "Manufacturing & Industrial Automation",
+      "founded": null,
+      "location": null,
+      "website": null
+    },
+    {
+      "id": 2,
+      "name": "Bigdatamatica Solutions",
+      "description": "An AI driven multi-agent platform to automate support, streamline search, and enable faster, cost-effective decision making.",
+      "sector": "Enterprise Software & AI",
+      "founded": null,
+      "location": null,
+      "website": null
+    },
+    {
+      "id": 3,
+      "name": "BioLex Advisory",
+      "description": "Catalyst for genome-edited agri-tech, bridging science, policy, and law for responsible innovation.",
+      "sector": "Agriculture & Biotechnology",
+      "founded": null,
+      "location": null,
+      "website": null
+    },
+    {
+      "id": 4,
+      "name": "Bipolar Factory",
+      "description": "AI-powered video intelligence that transforms CCTV networks into real-time, actionable insight platforms",
+      "sector": "Video Analytics & Security",
+      "founded": null,
+      "location": null,
+      "website": null
+    },
+    {
+      "id": 5,
+      "name": "CogniFirst Technologies",
+      "description": "A proprietary no-code Enterprise AI platform that helps enterprises and governments extract insights and automate document workflows from unstructured documents—reducing costs & improving compliance.",
+      "sector": "Enterprise AI & Document Processing",
+      "founded": null,
+      "location": null,
+      "website": null
+    },
+    {
+      "id": 6,
+      "name": "DocYantra",
+      "description": "AI-powered healthcare tools that enhance clinical decisions, ease admin load, and improve access to equitable care.",
+      "sector": "Healthcare AI",
+      "founded": null,
+      "location": null,
+      "website": null
+    },
+    {
+      "id": 7,
+      "name": "HanuAI",
+      "description": "An AI-powered road digitization platform for real-time defect detection and smarter infrastructure decision-making.",
+      "sector": "Infrastructure & Transportation",
+      "founded": null,
+      "location": null,
+      "website": null
+    },
+    {
+      "id": 8,
+      "name": "Ignited Wings Technologies (AI LifeBOT)",
+      "description": "Voice-first Agentic AI platform that automates workflows and improves decision-making for enterprises and government.",
+      "sector": "Conversational AI & Enterprise Automation",
+      "founded": null,
+      "location": null,
+      "website": null
+    },
+    {
+      "id": 9,
+      "name": "iQud",
+      "description": "An AI voice assistant platform that automates patient calls and scheduling to streamline healthcare operations.",
+      "sector": "Healthcare Operations & AI",
+      "founded": null,
+      "location": null,
+      "website": null
+    },
+    {
+      "id": 10,
+      "name": "Karma AI",
+      "description": "AI-powered legal assistant built for Police, Prisons, and Prosecutors to automate drafting, research, and casework",
+      "sector": "Legal Tech & AI",
+      "founded": null,
+      "location": null,
+      "website": null
+    },
+    {
+      "id": 11,
+      "name": "Lambodaray AiTech",
+      "description": "An AI & IoT platform delivering real-time operational intelligence for manufacturing, utilities, and smart infrastructure.",
+      "sector": "Industrial IoT & AI",
+      "founded": null,
+      "location": null,
+      "website": null
+    },
+    {
+      "id": 12,
+      "name": "Quantian Technologies",
+      "description": "An AI-powered platform for managing remote and distributed workforce with real-time tracking, automation, and productivity insights.",
+      "sector": "HR Tech & Workforce Management",
+      "founded": null,
+      "location": null,
+      "website": null
+    },
+    {
+      "id": 13,
+      "name": "Sorted (Settlesense)",
+      "description": "An AI-powered dispute resolution platform delivering fast, affordable, and enforceable outcomes with legal intelligence.",
+      "sector": "Legal Tech & Dispute Resolution",
+      "founded": null,
+      "location": null,
+      "website": null
+    },
+    {
+      "id": 14,
+      "name": "Sydorg Technologies",
+      "description": "AI-powered air traffic and weather intelligence platform for safer, smarter, and sustainable aviation management.",
+      "sector": "Aviation & Aerospace",
+      "founded": null,
+      "location": null,
+      "website": null
+    },
+    {
+      "id": 15,
+      "name": "UdyogYantra.AI",
+      "description": "An AI-powered platform to digitize and optimize food production and distribution with industrial precision.",
+      "sector": "Food Tech & Agriculture",
+      "founded": null,
+      "location": null,
+      "website": null
+    },
+    {
+      "id": 16,
+      "name": "Upjao Agrotech",
+      "description": "AI-powered Grain Quality Assessment for fairer Agri-trade.",
+      "sector": "Agriculture & Quality Control",
+      "founded": null,
+      "location": null,
+      "website": null
+    },
+    {
+      "id": 17,
+      "name": "YogiFi Smart Yoga Mats",
+      "description": "Smart yoga mat combining AI-driven posture tracking and personalized guidance for structured practice at home",
+      "sector": "Fitness & Wellness Tech",
+      "founded": null,
+      "location": null,
+      "website": null
+    },
+    {
+      "id": 18,
+      "name": "Lemtoj Infotech",
+      "description": "Specialize in custom software development, web and mobile app solutions, and digital transformation services tailored to client needs.",
+      "sector": "Software Development & Digital Transformation",
+      "founded": null,
+      "location": null,
+      "website": null
+    }
+  ],
+  "sectors_breakdown": {
+    "Healthcare": 3,
+    "Agriculture & Food Tech": 3,
+    "Enterprise Software & AI": 3,
+    "Manufacturing & Industrial": 3,
+    "Legal Tech": 2,
+    "Other": 4
+  },
+  "metadata": {
+    "source": "Nasscom AI Center of Excellence",
+    "location": "GIFT City, Gandhinagar, Gujarat",
+    "inauguration": "2025-01-27",
+    "partnerships": [
+      "MeitY (Ministry of Electronics and Information Technology)",
+      "Gujarat Informatics Limited (GIL)",
+      "Department of Science and Technology, Govt. of Gujarat"
+    ]
+  }
+}
+
+

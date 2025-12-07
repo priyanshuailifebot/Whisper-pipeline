@@ -1,0 +1,1242 @@
+AI-Powered Front Desk at Nasscom AI Centre of Excellence
+Information/Content on Nasscom AI CoE for training purpose
+MeitY CoE is one of the most effective enablers of deep tech startup ecosystem which is focused on
+IP and Market Creation. The centers have made co-creation and open innovation reality in India.
+1
+CoE has worked very effectively in the domains of Healthcare and Manufacturing, by engaging
+160+ enterprises, for cocreation with 500+ startups which has resulted 200+ prototypes and 50+
+deployments.
+Over the years, CoE has built unique capability to accelerate the startups by working with industries
+and PSUs to successfully enable the use case solution development and deployment.
+The Center of Excellence for IoT & AI emerged from a partnership among MeitY, state governments,
+and Nasscom. Its inception in July 2016 marked a significant moment within the Digital India
+Initiative. The primary aim has been to foster innovation democratization in burgeoning technologies
+such as Internet of Things & AI. Equipped labs have facilitated the development of prototypes and
+creation of solutions by the startups, tailored to sectors (primarily healthcare & manufacturing) vital
+for India’s progress.
+Operating from four strategic locations including Bangalore, Gurugram, Gandhinagar and Vizag, the
+CoE stands as a pivotal resource for entrepreneurs navigating the realm of emerging technologies.
+Serving as a hub of support, it has nurtured numerous startups across various sectors. Establishing
+itself as a frontrunner in the realm of innovation, the MeitY CoE has established following key
+strengths and differentiators:
+• Pan India Deep Tech startup growth enablement
+• Largest industry network for co-creation
+• Showcase India innovation story globally
+CoE organizes influential events, workshops, and conferences, uniting industry trailblazers,
+entrepreneurs, and investors alike. These endeavours serve as catalysts for vital discussions while
+fostering invaluable opportunities for partnerships, knowledge dissemination and networking among
+participants.
+Key Achievements of CoE in the First Phase
+• Labs operating at close to full occupancy.
+• Building robust industry connections, encompassing over thousand enterprises including SMEs.
+• Showcase for International visitors for technological innovations from India.
+• Pioneering thought leadership in technology applications, hosting over 300 events & workshops.
+• Societal impact initiatives like Jan care to demonstrate digital technologies for public good.
+After completion of 5 years (i.e. 2019-2024), Nasscom signed an MoU with Gujarat Informatics
+Limited, Department of Science and Technology, Govt. of Gujarat for setting up AI Center of
+Excellence at GIFT City, Gandhinagar. The AI CoE aims to work on sector-specific AI use case
+development, pilot projects, facilitation of training on AI for Govt. officials, secure data exchange,
+and adoption of AI models across government departments, private sectors, ensuring comprehensive
+Co-creation is a collaborative approach where various stakeholders including enterprises, startups, government,
+1
+communities, and individuals work together to discover, design, develop and deploy innovative solutions to complex
+problems using smart technology
+and integrated AI solutions. The AI CoE was inaugurated by Hon’ble Chief Minister of Gujarat on 27th
+January 2025.
+1. AI Innovation Challenge and Use cases
+Along with the inauguration of AI CoE, the Hon’ble Chief Minister of Gujarat also
+launched the AI Innovation Challenge (AI-IC) to connect India’s leading AI and deep-tech
+startups with real-world challenges from public and private sectors. The challenge
+provides a unique opportunity to showcase their cutting-edge solutions, collaborate with
+key stakeholders, and create meaningful impact in areas such as agriculture, healthcare,
+manufacturing, governance, and beyond.
+By focusing on structured collaboration and outcome-focused innovation, AI-IC is
+creating conditions necessary for scalable AI adoption. For government, it enables more
+responsive governance. For industry, it offers a competitive edge through smarter
+operations. For startups, it becomes a proving ground with direct access to
+implementation opportunities.
+Process Flow of AI Innovation Challenge:
+This platform is promoted by AI CoE, DST and GIL through banners on website and social
+media, encouraging startups to apply with their innovation solutions to the use cases.
+The applications from startups are further reviewed for selection of startups to provide
+solutions to the use cases and do the PoCs. The figure below shows website of AI
+Innovation Challenge platform. For more information refer: https://gujarat.coe-iot.com/
+ai-coe-ai-innovation-challenge/ .
+Below is the selection criteria for the startups:
+Eligibility Criteria of Startups for AI Innovation Challenge is as follows:
+Innovators and Mature Startups across the Nation, having Deep-tech capabilities and
+Market-ready Digital Solutions
+• Should have an annual turnover not exceeding Rs. 25 crore
+• Period of existence should not be exceeding 10 years from the Date of
+Incorporation
+• Should have the total manpower not more than 100 employees
+AI Innovation Challenge & Use-cases in Progress:
+Sr.
+No
+Use case
+title
+Nominated
+by
+Brief Description Sector
+1
+Detection
+of illegal
+Encroachm
+ent
+Development
+Commissione
+rate office,
+Gandhinagar
+Develop an AI-driven
+solution to automate
+encroachment detection on
+public or private land using
+image analytics. The solution
+aims to reduce manual
+efforts, improve detection
+accuracy, and provide a user-
+friendly dashboard for
+visualization. Targeted for
+urban development and
+municipal authorities, it
+should handle large-scale
+datasets efficiently while
+adhering to data privacy,
+achieving >95% accuracy on
+test datasets
+Government
+2
+Visitor
+Tracing
+using Facial
+Recognition
+GIL & DIT
+Design a secure facial
+recognition system for real-
+time visitor authentication
+and tracking in high-profile
+government buildings like
+Sachivalay. The solution aims
+to enhance security,
+streamline visitor
+management, and achieve
+99% accuracy in
+identification. It must handle
+high visitor volumes securely
+while complying with data
+protection laws and
+delivering real-time analytics
+for administrative and
+security teams.
+Government
+3
+Bilingual
+OCR for
+English &
+Gujarati
+GIL & DIT
+Develop a bi-lingual OCR
+system to accurately extract
+text in English and Gujarati
+from scanned documents
+and images, supporting
+diverse fonts and formats.
+The solution targets
+government departments,
+businesses, and academic
+institutions, aiming to
+digitize the process, reduce
+manual transcription efforts,
+and improve data
+accessibility. It must achieve
+>95% accuracy, handle low-
+quality scans and
+handwritten text, and
+comply with regional data
+privacy standards.
+Government
+4
+Document
+Identificatio
+n &
+Recognition
+GIL & DIT
+Develop an AI-driven
+solution to automatically
+identify, classify, and
+recognize document types
+like invoices, ID cards, and
+certificates while extracting
+key metadata fields.
+Targeting government
+agencies, banks, and
+businesses, the system aims
+to improve workflow
+efficiency with >90%
+accuracy. It must handle
+noisy, unstructured
+documents securely and
+comply with data privacy
+standards, significantly
+reducing manual processing
+efforts.
+Government
+5
+AI based
+emergency
+call
+analytics
+Home Dept.
+The use case focuses on
+leveraging AI to identify fake
+calls made to Emergency
+Response Support System
+(ERSS) 112. By analyzing call
+recordings and extracting
+Call Data Records (CDR), AI-
+powered speech recognition
+detects specific keywords,
+patterns, or anomalies in
+spoken words that may
+indicate a hoax. The system
+flags such calls in real-time
+and alerts authorities to
+prioritize genuine
+emergencies, improving
+response efficiency and
+reducing operational strain
+on emergency services.
+Government
+6
+Integrated
+CCTV
+surveillance
+with Facial
+Recognition
+Systems
+Home Dept.
+The use case focus on a
+solution that integrates CCTV
+surveillance with Facial
+Recognition Systems (FRS) to
+enhance the identification of
+inmates, staff, and visitors
+using body-worn cameras.
+This system aims to improve
+security by enabling real-
+time monitoring and
+reducing the risk of
+unauthorized access. By
+leveraging FRS, the solution
+would address challenges
+like manual verification,
+delayed threat detection,
+and operational
+inefficiencies, creating a
+safer and more
+controlled environment.
+Government
+7
+Surgical
+Planning
+for Head &
+Neck
+Cancer
+Max
+Healthcare
+Surgery for head and neck
+cancers poses significant
+challenges due to the
+proximity of critical
+structures. While clinical
+examination and radiological
+imaging provide valuable
+insights into the surgical
+landscape, unexpected
+complexities often arise
+during the procedure. By
+integrating AI-powered
+analysis of pre-operative
+imaging with immersive
+simulations of intra-
+operative conditions,
+surgeons can visualize
+surgical planes in relation to
+adjacent structures with
+enhanced accuracy. This
+approach not only improves
+pre-operative preparation
+but also reduces intra-
+operative uncertainties,
+leading to better outcomes.
+Additionally, this solution
+enables a training platform
+for surgical trainees,
+enabling them to practice
+and navigate challenging
+surgical scenarios in a
+controlled, risk-free
+environment.
+Health tech
+8
+Digitization
+of Legacy
+Medical
+documents
+Rajiv Gandhi
+Cancer
+Research
+Institute
+Transforming legacy medical
+records into digital assets is
+often hampered by their
+non-digital format,
+complexity, and sensitive
+nature. Traditional manual
+processes are slow, error-
+prone, and resource-
+intensive. This can be
+overcome by an AI-led
+solution that enables
+automated extraction,
+classification, and
+digitization of medical
+documents with
+unparalleled accuracy and
+speed. The solution needs to
+have stringent privacy and
+security frameworks,
+ensuring the compliance
+with regulations,
+safeguarding patient
+confidentiality. The solution
+enhances operational
+efficiency, reduces costs, and
+ensures the long-term
+accessibility and integrity of
+critical medical data.
+Health tech
+9
+AI based
+predictive
+maintenanc
+e of EV
+Charging
+Stations
+Charge Zone
+Develop an AI-driven
+predictive maintenance
+solution for EV charge point
+operators to transition from
+reactive to proactive
+maintenance practices. By
+analyzing real-time data
+from OCPP notifications,
+historical maintenance logs,
+and environmental factors,
+the system will predict
+potential failures, optimize
+maintenance schedules, and
+assign priority levels based
+on customer impact. It will
+include an AI-based alert
+system, actionable insights
+for technicians, and a
+centralized dashboard for
+monitoring charger health
+and maintenance efficiency,
+reducing downtime and
+improving operational
+efficiency.
+Manufacturi
+ng & EV
+10
+Employee
+Productivit
+y using
+Chatbot
+Assistance
+Tata Capital
+Develop a GenAI-enabled
+chatbot to assist employees
+with a wide range of tasks,
+from content writing,
+document summarization,
+and email drafting to HR
+queries and customer
+service support. Designed
+for versatility, the chatbot
+facilitates learning and
+development, compliance,
+team collaboration, and
+automation of repetitive
+tasks. It will provide
+personalized assistance,
+streamline workflows, and
+enhance productivity while
+allowing for seamless
+integration of additional use
+cases in the future.
+NBFC
+11
+Object
+Identificatio
+n and
+Tagging
+Urban
+Development
+Department
+Government departments
+face challenges in manually
+analyzing visual data, leading
+to inefficiencies and
+inaccuracies. This AI-based
+solution automates object
+identification and tagging in
+images and videos,
+enhancing accuracy and
+reducing manual effort.
+Utilizing deep learning
+techniques like CNNs and
+transformers, the model
+supports real-time
+processing and large
+datasets. Applications
+include surveillance,
+infrastructure monitoring,
+and public safety.
+Deliverables include an AI
+model, documentation, and
+a demo. The solution
+improves decision-making,
+boosts efficiency, and sets a
+benchmark for innovation
+with hybrid AI approaches,
+ensuring scalable and
+accurate object recognition
+across various domains.
+Government
+12
+Trend,
+Seasonality,
+and
+Anomaly
+Detection
+Statistics
+Department
+Government departments
+rely on structured and time-
+series data for decision-
+making, yet identifying
+trends, seasonality, and
+anomalies manually is
+inefficient and error-prone.
+This AI-powered solution
+automates data analysis to
+uncover hidden patterns,
+detect anomalies, and
+enhance forecasting
+accuracy. Using advanced AI/
+ML techniques such as
+LSTM, ARIMA, and ensemble
+learning, the model ensures
+real-time insights via a
+dashboard. The solution
+supports large datasets,
+missing values, and diverse
+data types while adhering to
+security regulations. By
+improving operational
+efficiency and resource
+allocation, this innovation
+drives data-driven
+policymaking, ensuring
+timely trend detection for
+better governance and
+strategic planning.
+Government
+13
+Enhancing
+customer
+service
+using AI
+technology
+Schneider
+electric
+Our customer care agents
+manage numerous inquiries
+every day, ranging from
+simple questions to intricate
+issues, which require them
+to navigate various tools and
+coordinate with multiple
+teams, resulting in time-
+consuming processes and
+delays. We seek to
+implement agentic AI
+technology to automate this
+workflow, aiming to
+streamline information
+retrieval and
+communication, thus
+enabling our care agents to
+deliver prompt and accurate
+responses. It is crucial that
+this AI incorporates
+necessary checkpoints to
+ensure the reliability of the
+information conveyed to our
+customers, integrates
+seamlessly with existing
+tools, automates data
+extraction and analysis from
+emails, efficiently routes
+queries to relevant
+departments, provides real-
+time updates for agents, and
+maintains a user-friendly
+interface for both agents and
+customers. By achieving
+these objectives, we are
+poised to enhance our
+customer service operations,
+reduce response times, and
+significantly improve the
+overall customer experience.
+Energy
+Managemen
+t &
+Automation
+14
+AI based
+Video
+Analytics &
+Pattern
+Identificatio
+n
+Pharma
+Manufacturer
+We are looking for a Vision-
+Based Generative AI solution
+that utilizes advanced image
+analysis to provide real-time
+recommendations based on
+analytical reports. The
+solution should be capable
+of monitoring operator
+behavior in controlled
+environments, such as clean
+rooms, using ergonomic
+analysis to ensure
+compliance and efficiency.
+Additionally, it should detect
+and analyze anomalies like
+smoke patterns, providing
+real-time alerts and
+actionable insights. By
+integrating AI-driven image
+recognition with real-time
+reporting, the solution
+should enhance operational
+safety, process optimization,
+and regulatory adherence,
+ultimately improving
+decision-making and
+proactive intervention in
+industrial and high-precision
+environments.
+Pharmaceut
+cals
+15
+AI based
+part
+identificatio
+n using
+image
+comparison
+Epsilon
+Engineering
+(MSME)
+For the variety of parts that
+flow through the
+manufacturing process,
+instant identification
+solution is desired
+comparing the scanned form
+of the part preferably on
+mobile camera with the
+design stored images and
+thus prompting its updation
+in ERP at the particular
+process stage.
+Manufacturi
+ng
+16
+Yard and
+Gate
+Manageme
+nt
+Transworld
+Container Freight Stations
+(CFS) handle high volume
+container movements, which
+is currently manually
+handled at all our locations.
+1. Tracking real-time
+container locations and
+vehicle movements becomes
+challenging. 2. The absence
+of real-time monitoring for
+yard space utilization can
+lead to suboptimal yard
+management and
+occasional congestion. 3.
+Management and utilization
+of equipment is also done
+manually. With an
+automated Gate and Yard
+Management Solution, we
+are looking forward to
+automated container
+handling, enhanced real-
+time visibility, improved
+resource allocation, and
+secure and compliant
+operations. The system
+should integrate with
+existing logistics
+infrastructure and provide
+actionable insights for better
+decision-making.
+Logistics
+17
+Automated
+Blueprint
+Evaluation
+Town
+Planning &
+Valuation
+Department
+Develop an AI-based
+solution for CAD drawings
+that assists Town Planning
+and Validation Department
+(TPVD) in drafting, analyzing,
+and speedy finalization of
+Town Planning Schemes
+(TPS). The system should
+automate the evaluation of
+TPS to reduce manual review
+time, increase accuracy in
+decision-making, and
+enhance the efficiency of
+planning processes.
+G
+Government
+18
+AI-Driven
+Wetland
+Intelligence
+& Digital
+Platform
+for Nal
+Sarovar
+Bird
+Sanctuary
+(Ramsar
+Site)
+Forest &
+Environment
+Department
+The project aims to build an
+AI-powered digital
+intelligence platform using
+multi-year ecological data
+collected from Nalsarovar
+Bird Sanctuary — a
+designated Ramsar site in
+Gujarat. Leveraging historical
+physico-chemical and
+biological data published by
+GEER Foundation, the
+solution will digitize, analyze,
+and visualize wetland
+parameters, provide trend
+analysis, and predict critical
+ecological indicators. The
+platform will serve as a
+scientific tool for informed
+decision-making, policy
+design, and resource
+optimization in wetland
+management.
+Government
+19
+Material
+Tracking
+and Waste
+manageme
+nt
+Tech Weaves
+Design and implement a
+smart digital solution for the
+technical textiles industry
+that ensures real-time
+traceability of materials
+across all production stages,
+automates the monitoring of
+GSM (grams per square
+meter) to maintain
+consistent fabric quality, and
+minimizes production losses
+due to overfeeding,
+trimming, and quality
+rejections. The solution
+should also reduce human
+dependency by digitizing
+data capture for weighing,
+quality checks, and batch
+labeling—thereby improving
+compliance, reducing errors,
+and enabling data-driven
+decision-making to enhance
+overall operational
+efficiency.
+Textiles
+20
+Computer
+Vision
+Solution for
+Quality
+Check
+Oriental
+Works
+Need an inspection station
+for Anchorage sets (pictures
+attached). They come in
+standard configurations
+based on the number of
+holes. Two tests need to be
+performed: depth
+measurement with a probe
+or a gauge and a visual
+inspection using a camera
+for surface finish. An x,y,z
+coordinate moving probe or
+gauge may be needed in
+addition to the camera. We
+can define positioners on a
+table for repeat location.
+Manufacturi
+ng
+21
+AI Powered
+Theft
+Detection
+in
+Electricity
+Distribution
+Network
+GUVNL
+Electricity theft remains a
+persistent challenge in the
+power sector, leading to
+substantial commercial
+losses, unstable supply, and
+increased operational costs.
+Traditional theft detection
+relies heavily on manual
+audits, delayed billing
+reconciliations, and
+consumer complaints. These
+methods are reactive, slow,
+and often ineffective in
+identifying theft in real-time.
+The absence of a smart,
+automated, and scalable
+theft detection system
+prevents utility providers
+from proactively addressing
+theft hotspots, leading to
+unbilled consumption and
+significant revenue leakage.
+Government
+22
+AI-Powered
+Sentiment
+Analysis
+from
+Newspaper
+Publication
+s
+Information &
+Broadcasting
+Department
+The use case aims to develop
+an AI-powered sentiment
+analysis system that
+processes daily press
+clippings from multiple
+regional and national
+newspapers (Gujarati, Hindi,
+and English) and classifies
+the sentiments of news
+articles.
+Government
+23
+Robotic
+Process
+Automation
+Transworld
+Container Freight Stations
+(CFS) currently rely on
+traditional systems and
+processes involving manual
+intervention and extensive
+paperwork. Operations
+include repetitive and
+mundane task to be done on
+a daily basis. These
+conventional methods often
+lead to inefficiencies, delays,
+and increased operational
+costs. With the growing
+demand for more efficient
+and streamlined operations
+in the logistics sector, there
+is a significant opportunity to
+leverage emerging
+technologies like Robotic
+Process Automation (RPA).
+Logistics
+24
+AI based
+Computer
+vision
+solution for
+the quality
+inspection
+of metal
+tubes
+Siddhi
+Engineers
+Organization wants to find
+surface imperfections on
+inner diameter of the
+Aluminum tube where the
+inside diameter ranges from
+10mm ID to 100mm ID.
+Initially, we can focus on
+range of 18mm ID to 30mm
+ID. Here the weight dots or
+surface scratches or pit
+marks, etc. kind of defects
+are observed on the inner
+surface of the tube. Pit
+marks are observed after
+anodizing where other
+marks need to be observed
+before anodizing. The tubes
+normally are in length of
+1000mm or more and the
+tubes are of Round,
+Rectangular or other hollow
+shapes. The tubes can be in
+straight condition most of
+the time, but we have bend
+Rectangular Tube also.
+Manufacturi
+ng
+25
+AI
+Compliance
+Agent
+Tata AIA
+Data retention management
+system:- Looking for Data
+retention management
+solution which should be
+capable of defining and
+implementing policies for
+storing, organizing, and
+disposing of an
+organization's data (Digital
+and Non-Digital data, Data
+could be Policy level data,
+agent/customer level data,
+employees etc.suring
+compliance, optimizing
+storage, and mitigating risks
+either by Deletion or
+masking of the data as per
+the guidelines. It includes
+classifying data, setting
+retention periods,
+automating processes, and
+regularly auditing
+compliance. We expect the
+solution to work
+unsupervised with no or
+minimal manual
+intervention.
+Insurance
+26
+AI Voice
+Agent in
+Arabic
+Sutherland
+Global
+AI Bot Solution in Call Centre
+that should converse in
+Arabic Language, understand
+the requirement of the end
+users, and then give back the
+results to the end user in
+real-time.
+BPO
+1. Grow X Acceleration Program for Deep Tech Startups
+GrowX is an acceleration program that CoE runs to accelerate the deep tech startups.
+Under the program, CoE provides various benefits such as Computing Infrastructure, Co-
+Working Space, AI Experience Zone, GTM Support, Funding Support, Mentorship and
+Solution Showcase Opportunities.
+27
+Quality
+Audit of AI
+Voice Bot
+NBFC
+We need an automated QA
+solution for GenAI voice bots
+that can (1) perform live
+quality checks on accuracy,
+compliance, and
+governance, (2) enable
+automated QA during the
+development stage, and (3)
+compare bot outputs across
+versions to ensure targeted
+training improves
+performance without
+negatively impacting other
+functions. This will help
+maintain reliability,
+compliance, and overall
+voice bot effectiveness.
+NBFC
+28
+Identificatio
+n of coating
+error in
+white
+polymer –
+AI based
+quality
+inspection
+Reciclar
+Technology -
+MSME
+The company is facing challenges
+in identifying coated and non-
+coated hollow fiber membranes
+made of PVDF material. It is
+seeking an AI-based solution for
+visual inspection to distinguish
+between the coated and non-
+coated parts of the hollow fiber
+membranes. These hollow fiber-
+based membrane modules are
+used for solid-liquid separation in
+wastewater treatment.
+Wastewater
+& Water
+Tech
+29
+AI based
+solution for
+quality
+inspection
+of bearing
+rings
+Tatvamasi
+Engineering –
+MSME
+The company is a component
+manufacturer catering to the
+aerospace industry. It is facing
+challenges in conducting the
+inspection process for these
+rings, which are very large and
+heavy. The company is seeking an
+AI-based solution for the visual
+inspection of toothed ring gear
+blanks and the automated
+generation of inspection reports
+comprising 33 parameters.
+Manufacturi
+ng
+CoE also conducted Innovation masterclasses for the startups to educate themselves on
+various subjects such as Intellectual Property Rights, Investment Funding, Cloud
+Computing etc.
+CoE is also building a panel of mentors who can guide the startups on their growth
+journeys on topics such as product market fit, design validation, fund raising, valuation,
+market reach etc. The details of mentors will be hosted on CoE website for startups to
+request for session with mentor which will be further facilitated by CoE.
+1. List of Startups incubated at AI CoE and brief description of Solution
+Sr. No Name of Startup Brief Description of Solution
+1 Atomo Innovation
+Indigenous, Al-powered edge computing hardware built for
+real-time industrial automation. Low power, scalable,
+interoperable, and made for harsh industrial environments.
+2 Bigdatamatica
+Solutions
+An AI driven multi-agent platform to automate support,
+streamline search, and enable faster, cost-effective decision
+making.
+3 BioLex Advisory Catalyst for genome-edited agri-tech, bridging science,
+policy, and law for responsible innovation.
+4 Bipolar Factory AI-powered video intelligence that transforms CCTV
+networks into real-time, actionable insight platforms
+5 CogniFirst
+Technologies
+A proprietary no-code Enterprise AI platform that helps
+enterprises and governments extract insights and automate
+document workflows from unstructured documents—
+reducing costs & improving compliance.
+6 DocYantra AI-powered healthcare tools that enhance clinical decisions,
+ease admin load, and improve access to equitable care.
+7 HanuAI An AI-powered road digitization platform for real-time defect
+detection and smarter infrastructure decision-making.
+8
+Ignited Wings
+Technologies (AI
+LifeBOT)
+Voice-first Agentic AI platform that automates workflows
+and improves decision-making for enterprises and
+government.
+9 iQud An AI voice assistant platform that automates patient calls
+and scheduling to streamline healthcare operations.
+10 Karma AI AI-powered legal assistant built for Police, Prisons, and
+Prosecutors to automate drafting, research, and casework
+11 Lambodaray AiTech
+An AI & IoT platform delivering real-time operational
+intelligence for manufacturing, utilities, and smart
+infrastructure.
+12 Quantian
+Technologies
+An AI-powered platform for managing remote and
+distributed workforce with real-time tracking, automation,
+and productivity insights.
+13
+Sorted
+(Settlesense)
+An AI-powered dispute resolution platform delivering fast,
+affordable, and enforceable outcomes with legal
+intelligence.
+1. Experience Zone and Delegation Visits
+CoE has developed an AI Experience Zone housing cutting edge AI solutions made by
+deep tech startups. The zone is used to make industries, govt. officials, MSMEs etc.
+stakeholders aware about real world applications of AI in different sectors such as
+Healthcare, Manufacturing, Agriculture, Safety etc.
+14 Sydorg
+Technologies
+AI-powered air traffic and weather intelligence platform for
+safer, smarter, and sustainable aviation management.
+15 UdyogYantra.AI An AI-powered platform to digitize and optimize food
+production and distribution with industrial precision.
+16 Upjao Agrotech AI-powered Grain Quality Assessment for fairer Agri-trade.
+17 YogiFi Smart Yoga
+Mats
+Smart yoga mat combining AI-driven posture tracking and
+personalized guidance for structured practice at home
+18 Lemtoj Infotech
+Specialize in custom software development, web and mobile
+app solutions, and digital transformation services tailored to
+client needs.
+Sr. No Name of Startup Brief Description of Solution
+1. Solutions put at the Experience zone and brief description
+Sr. No
+Name of
+Startup Brief Description of Solution
+1 Orangewoo
+d Labs
+Orangewood Labs is creating advanced made in India robots that
+can sense and understand their surroundings. These robots are used
+in various fields like healthcare and manufacturing. They can
+perform tasks that require high precision, such as assembling small
+parts, identifying objects, and working alongside humans. This
+solution helps reduce errors, improve efficiency and perform
+repetitive tasks effortlessly.
+2 Zbox
+Zbox is developing smart technology that uses cameras and artificial
+intelligence to find flaws or defects in products quickly and
+accurately. This technology is mainly used in manufacturing and
+agriculture to ensure products are of high quality and to reduce
+mistakes made by humans. Essentially, Zbox’s system helps make
+sure that everything produced is up to standard by automatically
+checking for any issues.
+3
+Forus
+healthcare
+Forus Healthcare is creating a portable device that uses artificial
+intelligence to detect eye diseases like diabetic retinopathy,
+cataracts, and glaucoma with high accuracy. This device can be used
+in remote and underserved areas, making it easier to diagnose and
+treat eye conditions early, even in places where medical facilities are
+not easily accessible. Their technology helps ensure that people get
+timely treatment, improving their chances of better eye health.
+4
+Daten N
+Wissen
+Daten N Wissen is developing smart video technology that uses
+artificial intelligence to monitor and analyse different situations
+automatically. This technology can recognize car number plates,
+detect fires, measure how crowded a place is, and check if people
+are wearing safety gear. By providing real-time information, it helps
+improve safety and efficiency in various industries, making everyday
+operations smoother and more secure.
+5 Alveofit
+Alveofit is creating a handy device that measures how well your
+lungs are working. It gives quick and accurate digital readings,
+helping doctors detect respiratory issues early. The device is easy to
+use and can be used in clinics, hospitals, and even remote areas,
+making lung health monitoring and screening, accessible to
+everyone.
+6 Medprime
+Medprime is creating a digital microscope that takes high-quality
+images of microscope slides. This device makes it easy to add notes
+to the images and share them with others for collaboration or
+education. It’s compact and efficient, improving accuracy and
+accessibility in research, diagnostics, and training. This technology
+represents the future of microscopy, making it easier for people to
+work together and learn from slide images.
+7 Plutomen
+Plutomen is developing an AR/VR-based solution that helps frontline
+workers by providing advanced tools for their tasks. Using immersive
+technologies, it improves their skills, boosts efficiency, and aids in
+making better decisions in real-time. This innovative solution is
+changing the way frontline workers learn, work, and excel in
+dynamic environments, especially in manufacturing.
+8 ExposIT
+Exposit is developing an AR/VR-based training solution that creates
+realistic and interactive simulations. This technology helps people
+learn and understand complex concepts better by allowing them to
+practice in safe, and controlled environments. This solution is used
+in various fields like education, manufacturing, and healthcare to
+improve skill-building and prepare trainees for real-world
+challenges.
+9 Autobit
+Autobit is creating a smart system that uses the Internet of Things
+(IoT) to monitor machines in real-time. This technology tracks
+important machine data, helps spot performance problems,
+optimizes operations, and prevents downtime by providing useful
+insights. It’s designed to improve efficiency in industries, showing
+how IoT is changing the way industrial processes and maintenance
+are done.
+10 Factri AI
+Factri AI is developing a digital system that helps industries monitor
+their shop floor activities in real-time. By collecting and analysing
+important data, this system boosts productivity, streamlines
+operations, and aids in making informed decisions. Essentially, Factri
+AI’s solution uses digital technology to optimize manufacturing
+processes and improve overall efficiency.
+Sr. No
+Name of
+Startup Brief Description of Solution
+The delegations hosted by AI CoE included Govt. officials, foreign delegations, Industry
+Associations, Academia, Research Institutions etc. The delegations were made aware
+about key functions of AI CoE, initiatives bring driven by CoE and applications of AI in
+various sectors through demos at experience zone.
+1. Industry digitalization
+AI CoE makes significant efforts to digitalize the MSMEs with Industry 4.0 and smart
+manufacturing solutions. For ex. IoT for Machine monitoring, AI for Quality inspection,
+QR code-based track and trace of inventory etc. To scale up this effort, CoE partnered
+with Quality Council of India and conducted workshops in 12 different Industrial Clusters
+of Smart Solutions for MSMEs and created awareness as a part of Gujarat Gunvatta
+11 Jivi
+Jivi is creating an AI-powered platform that makes it easier for
+patients to interact with healthcare services. By using
+conversational AI, Jivi improves patient engagement and makes
+healthcare services more accessible, efficient, and personalized. Jivi
+can provide
+12 Upjao
+A smart system that uses artificial intelligence to quickly and
+accurately check the quality of grains. This technology can find
+defects, measure important grain characteristics, and ensure they
+meet quality standards. By automating the inspection process,
+Upjao’s solution improves efficiency, reduces human errors, and
+helps make better decisions in the agriculture and food industries.
+This solution can help farmers in getting right price for their crop.
+13 NUverse
+NUverse is creating a compact and efficient interface compatible
+with your mobile phones, that monitors important health
+parameters like heart rate, blood pressure, and oxygen levels in real-
+time. This technology helps quickly assess vital signs and detect
+health issues early, improving healthcare delivery both in clinics and
+remote areas.
+14 LarkAI
+LarkAI is developing advanced AI technology to quickly and
+accurately diagnose cardiovascular diseases. Their system provides
+real-time analysis and early detection, making it easier to identify
+health issues before they become serious. This technology helps
+improve healthcare by offering fast, non-invasive screenings,
+ensuring people get timely and effective treatment.
+Sr. No
+Name of
+Startup Brief Description of Solution
+Yatra. In addition, CoE also conducted workshops in collaboration with Industry
+Associations and bodies such as National Productivity Council, GCCI, GSPMA, SGCCI etc.
+CoE educated over thousand MSMEs on adoption of smart solutions. Interested MSMEs
+are being provided further support by understanding their problems and connecting
+them with the startups who provide the solutions.
+CoE also conducted an event namely AI for CXOs for AI adoption with large industries
+and MSMEs by inviting senior industry leaders (mainly CXOs. The discussions covered AI
+CoE’s functions, programs, use cases, and partnership opportunities, along with
+roundtable dialogues on AI adoption challenges and solutions for both Tech CXOs and
+Non-Tech Functional Heads.
+2. Seminar for Govt. of Gujarat
+CoE conducted training for Govt. officials on AI and its applications in Governance and
+Public Services. The trainings included customised sessions for the officials from
+Administration and Technical Functions.
+3. Success stories
+AI CoE facilitated digital adoption of the AI powered solution for the grain quality
+inspection. The details are as follows:
+Problem statement - Grain quality evaluation relies on manual and subjective
+inspection, often leading to inconsistent results, lack of transparency, and unfair pricing
+for farmers especially at local marketplace.
+Solution: AI-based grain quality assessment system was introduced, capable of
+evaluating over ten physical parameters of grains i.e. broken grains, foreign materials etc.
+within 30 seconds using computer vision.
+Impact: Deployed at APMCs in Kheda and Anand in Gujarat, it enables scientific, data-
+driven decision-making at the grassroots level. The solution has empowered over 1,000
+farmers and facilitated grain trade worth ₹700+ crore, ensuring fair pricing and reducing
+losses from rejections. For more information, please refer to - https://youtu.be/
+_R_zBiva1a8?si=z4YhCnsNVKYP5Rpv
+IT/ ITeS Policy Govt. of Gujarat
+Incentives for ICT & Deep Tech Startup
+A. Assistance in R&D, Prototype Creation and Product Development- one time support
+of 25% up to INR 25 Lakhs for their total expenses incurred on R&D, creating
+prototypes, and developing the product. This assistance will be reimbursed upon
+submission of their first sales invoice.
+B. Patent Assistance @ 75% of cost of obtaining patent subject to ceiling of INR 5 lakhs
+per patent for domestic patent and INR 10 lakhs per patent for international patent.
+Eligible ICT & deep tech startup can submit claims for a maximum of 10 patents per
+year for five years. The Government fees and the professional fees shall be
+considered for computing assistance. The assistance will be in the nature of
+reimbursement.
+C. Quality certification @ 50% subvention on the expenses incurred for a maximum of
+three quality certifications up to a maximum of INR 5 Lakhs per certificate.
+D. D. Facilitating shared infrastructure: The eligible ICT & deep tech startup working in
+deep tech subsector as defined in section 2.5.3 (A) will receive a one-time support of
+35% of the internet (bandwidth) cost and cloud cost for procuring cloud platform
+through a private cloud service provider for 6 months up to INR 10 Lakhs for non-
+incubated ICT & deep tech startup and INR 7.5 Lakhs for incubated ICT & deep tech
+startup once during the operative period of the policy.
+E. Lease Rental Support: An eligible ICT & deep tech startup can claim expenditure
+incurred on lease rental of office space at a property rented from a third party for a
+period of five years, up to a maximum monthly rental of INR 25/sq. ft. of built-up
+area or actual lease rental expenditure, whichever is lower. The units running their
+operations in non-empanelled co-working spaces are eligible to claim a maximum of
+up to 15 per cent of the per seat monthly rental expense or INR 1250/- per seat per
+month, whichever is lower.
+F. Special Incentives: An eligible ICT & deep tech startup can claim special incentives as
+defined under section 2.7.2. For more information refer to https://dst.gujarat.gov.in/
+Home/gjstateititespolicy

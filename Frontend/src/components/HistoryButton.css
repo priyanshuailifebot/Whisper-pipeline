@@ -1,0 +1,70 @@
+/* History Icon Button */
+.history-icon-button {
+  position: fixed;
+  bottom: 100px; /* Above compact controls bar (80px height + 20px margin) */
+  right: 24px;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border: none;
+  color: white;
+  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+  cursor: pointer;
+  z-index: 900;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+}
+
+@media (max-width: 768px) {
+  .history-icon-button {
+    bottom: 85px; /* Above 70px controls */
+    width: 52px;
+    height: 52px;
+  }
+}
+
+@media (max-width: 640px) {
+  .history-icon-button {
+    bottom: 75px; /* Above 60px controls */
+    right: 16px;
+    width: 48px;
+    height: 48px;
+  }
+}
+
+.history-icon-button:hover {
+  box-shadow: 0 6px 20px rgba(102, 126, 234, 0.6);
+  transform: translateY(-2px);
+}
+
+.history-badge {
+  position: absolute;
+  top: -4px;
+  right: -4px;
+  background: #f5576c;
+  color: white;
+  font-size: 0.75rem;
+  font-weight: 600;
+  min-width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 6px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+/* Dark theme support */
+[data-theme="dark"] .history-icon-button {
+  background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+  box-shadow: 0 4px 12px rgba(118, 75, 162, 0.5);
+}
+
+[data-theme="dark"] .history-icon-button:hover {
+  box-shadow: 0 6px 20px rgba(118, 75, 162, 0.7);
+}
+

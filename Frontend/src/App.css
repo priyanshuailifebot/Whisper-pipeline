@@ -1,0 +1,246 @@
+/* Kiosk Layout - 1080x1920 Split Screen */
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100dvh; /* Dynamic viewport height - accounts for browser chrome */
+  width: 100vw;
+  /* Removed max-width/height restrictions for true full-screen kiosk */
+  /* max-width: 1080px; */
+  /* max-height: 1920px; */
+  /* margin: 0 auto; */
+  background: var(--background);
+  overflow: hidden;
+  position: relative;
+  transition: background 0.3s ease, color 0.3s ease;
+  /* Standard touch target size for kiosk UI */
+  --touch-size: 56px;
+}
+
+/* Fallback for browsers that don't support dvh */
+@supports not (height: 100dvh) {
+  .app {
+    height: 100vh;
+    min-height: -webkit-fill-available;
+  }
+}
+
+/* Light Theme (Default - Professional Nasscom Style) */
+.app.light {
+  --background: #eef2f6;
+  --surface: #ffffff;
+  --surface-light: #f5f7fb;
+  --surface-dark: #e1e7ef;
+  --border: #ccd4de;
+  --text-primary: #1c2430;
+  --text-secondary: #445469;
+  --text-muted: #7b8797;
+}
+
+/* Dark Theme */
+.app.dark {
+  --background: #0f1724;
+  --surface: #182231;
+  --surface-light: #1f2d40;
+  --surface-dark: #0b141f;
+  --border: #243245;
+  --text-primary: #f3f6fb;
+  --text-secondary: #c0ccdb;
+  --text-muted: #8c98aa;
+}
+
+/* Kiosk Main - Full screen for avatar by default */
+.kiosk-main {
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+/* When content is active, split 50/50 vertically */
+.kiosk-main.content-active {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Avatar Panel - Full screen by default, hidden when content active */
+.avatar-panel {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  flex: 1;
+}
+
+.kiosk-main.content-active .avatar-panel {
+  display: none; /* Hide full avatar panel when content is active */
+}
+
+/* Content Panel - Hidden by default, full screen when active */
+.content-panel {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+  padding-right: 0;
+  overflow-y: auto;
+}
+
+.kiosk-main.content-active .content-panel {
+  position: relative;
+  flex: 1;
+  height: 100%;
+  width: 100%;
+  opacity: 1;
+  pointer-events: all;
+}
+
+/* Avatar Overlay - Circular, top-right, only when content active */
+.avatar-overlay {
+  position: fixed;
+  top: calc(120px + 1rem); /* Position below header (120px) + padding */
+  right: 1.5rem;
+  width: 16rem; /* Slightly smaller: 256px */
+  height: 16rem;
+  border-radius: 9999px;
+  overflow: hidden;
+  z-index: 80; /* Higher than content (75) but lower than modals (900+) */
+  box-shadow: 0 12px 40px rgba(0,0,0,0.35);
+  opacity: 0;
+  transform: scale(0.8);
+  pointer-events: none;
+  transition: opacity 0.4s ease, transform 0.4s ease;
+}
+
+.avatar-overlay.active {
+  opacity: 1;
+  transform: scale(1);
+  pointer-events: auto; /* Allow click-through when needed */
+}
+
+.avatar-overlay video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 0%;
+  transform: scale(1.3);
+  transform-origin: center center;
+}
+
+/* Decorative gradient border */
+.avatar-overlay::before {
+  content: '';
+  position: absolute;
+  inset: -4px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  z-index: -1;
+  pointer-events: none;
+}
+
+@media (max-width: 768px) {
+  .avatar-overlay {
+    width: 12rem; /* 192px for tablet */
+    height: 12rem;
+    top: calc(100px + 1rem); /* Below smaller header (100px) */
+    right: 1rem;
+    z-index: 80;
+  }
+}
+
+@media (max-width: 640px) {
+  .avatar-overlay {
+    width: 10rem; /* 160px for kiosk/mobile */
+    height: 10rem;
+    top: calc(80px + 0.75rem); /* Below compact header (80px) */
+    right: 0.75rem;
+    z-index: 80;
+  }
+}
+
+@media (max-width: 480px) {
+  .avatar-overlay {
+    width: 8rem; /* 128px for small mobile */
+    height: 8rem;
+    top: calc(80px + 0.5rem); /* Below header */
+    right: 0.5rem;
+    z-index: 80;
+  }
+}
+
+
+/* Divider line between content and avatar when split */
+.kiosk-main.content-active::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    #0066cc 20%,
+    #4fc3f7 50%,
+    #0066cc 80%,
+    transparent
+  );
+  z-index: 10;
+  pointer-events: none;
+}
+
+/* Responsive adjustments for different screen sizes */
+@media (max-width: 768px) {
+  .kiosk-main.content-active .avatar-panel {
+    flex: 0 0 50%;
+    height: 50%;
+  }
+  
+  .kiosk-main.content-active .content-panel {
+    flex: 0 0 50%;
+    height: 50%;
+  }
+}
+
+@media (max-width: 480px) {
+  .app {
+    --touch-size: 48px;
+  }
+  
+  .kiosk-main.content-active .avatar-panel {
+    flex: 0 0 50%;
+    height: 50%;
+  }
+  
+  .kiosk-main.content-active .content-panel {
+    flex: 0 0 50%;
+    height: 50%;
+  }
+}
+
+/* High resolution displays */
+@media (min-resolution: 2dppx), (min-resolution: 192dpi) {
+  .kiosk-main.content-active::after {
+    width: 1px;
+  }
+  
+  @media (max-width: 768px) {
+    .kiosk-main.content-active::after {
+      height: 1px;
+      width: auto;
+    }
+  }
+}
+
+
+
+
+
+
+
+
+

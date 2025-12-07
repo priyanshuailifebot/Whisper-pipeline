@@ -1,0 +1,191 @@
+About AI-IC
+Challenge areas
+Program structure
+Register
+
+
+
+
+
+
+
+
+
+About AI Innovation Challenge
+The AI Innovation Challenge (AI-IC) is a flagship initiative of AI Center of Excellence, established by Department of Science & Technology and Gujarat Informatics Limited – Govt. of Gujarat in partnership with nasscom and Microsoft, to be a cornerstone of AI innovation, driving solution co-creation and impactful use cases to improve efficiency and quality in the public and private sectors.
+
+AI Innovation Challenge is aimed at connecting India’s most promising AI and Deep-tech startups with real-world challenges from both Public & Private Sector organizations. The challenge provides a unique opportunity to showcase their cutting-edge solutions, collaborate with key stakeholders, and create meaningful impact in areas such as agriculture, healthcare, manufacturing, governance, and beyond.
+
+Why Startups Should Participate ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AI Innovation Challenge - IV
+( PHASE - I )
+Public Sector Use-Cases
+Urban Development Department:
+Workflow Automation for eTappal processing in eSarkar
+Directorate of Archaeology and Museums, Kachchh Circle:
+AI-Powered AR/VR Heritage Engagement using 3D Mapping
+Gujarat Pollution Control Board:
+AI-Enabled Industrial Effluent & Emission Monitoring
+Food & Civil Supplies Department:
+AI-powered Smart CCTV Surveillance System
+Use-cases' Brief
+Workflow Automation for eTappal processing in eSarkar
+AI-Powered AR/VR Heritage Engagement using 3D Mapping
+AI-Enabled Industrial Effluent & Emission Monitoring
+AI-powered Smart CCTV Surveillance System
+The Department seeks an AI-powered Smart CCTV Surveillance System to automate real-time monitoring across 250+ foodgrain godowns. Startups are expected to build an intelligent solution that detects unauthorized vehicles/persons, animal intrusion, unallocated foodgrain movement, delays in dispatch, and camera blackout/tampering. The system must generate instant alerts, enhance transparency, and reduce pilferage while improving operational efficiency across the Public Distribution System (PDS).
+
+Smart CCTV illustration
+AI Innovation Challenge - III
+( Registrations Closed )
+Public Sector Use-Cases
+Gujarat Vij Urja Nigam Limited - Gov. of Gujarat:
+AI-powered Monitoring and Theft Detection System for Electricity Distribution Networks
+Information & Broadcast Department - Gov. of Gujarat:
+AI-Powered Sentiment Analysis of news available in public domain
+Private Sector Use-Cases
+Robotic Process Automation for CFS stations
+AI-based Computer Vision for the quality inspection of metal tubes
+AI Innovation Challenge - III
+( Registrations Closed )
+Public Sector Use-Cases
+Town Planning and Valuation Department:
+Automated Blueprint Evaluation for Town Planning
+Forest and Environment Department:
+AI-Driven Wetland Intelligence & Digital Platform for Nalsarovar Bird Sanctuary (Ramsar Site), Gujarat
+Private Sector Use-Cases
+Teach Weaves International Pvt. Ltd.:
+Material Tracking and Wastage Management
+Oriental Engineering Works:
+Computer Vision Solution for Quality Check
+AI Innovation Challenge - II
+( Registrations Closed )
+Public Sector Use-Cases
+Object Identification and Tagging from Images and Video
+Trend, Seasonality, and Anomaly Detection on Time-Series and Tabular Data
+Private Sector Use-Cases
+Schneider Electric:
+Enhancing customer service through the use of AI technology
+Large Pharmaceutical Manufacturer:
+Vision-Based Generative AI for Real-Time Image Analysis and Intelligent Recommendations
+Epsilon Engineering:
+AI led part identification through image comparison
+Transworld:
+Robotic Process Automation
+Transworld:
+Digitization of yard and gate management for containers
+AI Innovation Challenge - I
+( Registrations Closed )
+Public Sector Use-Cases
+Detection of Illegal Encroachment
+Visitor Tracing using Facial Recognition
+Bilingual OCR for English & Gujarati
+Document Identification & Recognition
+Identification of fake calls in ERSS 112
+Integrated CCTV surveillance with FRS
+Private Sector Use-Cases
+Max Healthcare:
+AI led Surgical Planning
+RGCIRC:
+Digitization of Legacy Medical documents
+Charge Zone:
+AI based predictive maintenance of EV Charging Stations
+Tata Capital:
+Employee Productivity using Chatbot Assistance
+Use-cases' Brief
+AI-powered Monitoring and Theft Detection System for Electricity Distribution Networks
+AI-Powered Sentiment Analysis of news available in public domain
+Robotic Process Automation for CFS stations
+AI-based Computer Vision for the quality inspection of metal tubes
+Automated Blueprint Evaluation for Town Planning
+AI-Driven Wetland Intelligence & Digital Platform for Nalsarovar Bird Sanctuary (Ramsar Site), Gujarat
+Material Tracking and Wastage Management
+Computer Vision Solution for Quality Check
+Object Identification and Tagging from Images and Video
+Trend, Seasonality, and Anomaly Detection on Time-Series and Tabular Data
+Enhancing customer service through the use of AI technology
+Vision-Based Generative AI for Real-Time Image Analysis and Intelligent Recommendations
+AI led part identification through image comparison
+Digitization of yard and gate management for containers
+Detection of Illegal Encroachment
+Visitor Tracing using Facial Recognition
+Bilingual OCR for English & Gujarati
+Document Identification & Recognition
+Identification of fake calls in ERSS 112
+Integrated CCTV surveillance with FRS
+AI led Surgical Planning for Head & Neck Cancer cases
+Employee Productivity using Chatbot Assistance
+AI based predictive maintenance of EV Charging Stations
+Digitization of Legacy Medical documents
+Program Structure
+
+Launch of AI - Innovation Challenge
+ 
+
+Registrations by Startups across the country
+ 
+
+Startups’ Engagement Sessions with Stakeholders
+ 
+
+Mentoring Sessions on Proposals by Technical & Business Experts
+ 
+
+Final Evaluation by Jury Members & Winner Announcement
+ 
+
+PoC Engagement with Winning Startups
+ 
+
+Solution
+Deployment
+Eligibility Criteria for Participation
+Innovators and Mature Startups across the Nation, having Deep-tech capabilities and Market-ready Digital Solutions
+Should have an annual turnover not exceeding Rs. 25 crore
+
+Period of existence should not be exceeding 10 years from the Date of Incorporation
+
+Should have the total manpower not more than 100 employees
+
+Winning Innovators will Get
+
+An opportunity to develop real-time solutions for a state government department through a paid proof of concept (POC).
+
+
+1 year membership to AI CoE Startup Accelerator Program
+
+CoE will connect winner with the Use-case Owner Entity. The decision of Commercials to be taken by the Use-case Owners
+Startups apply here
+AI Innovation Challenge - IV
+( PHASE - I )
+Register Now
+To know more about AI innovation challenge
+Contact
+AI Center of Excellence
+Email : smartmanufacturing@nasscom.in or visit http://gujarat.coe-iot.com/
+
+
+ 
+
+ 
+
+ 
+
+Copyrights © 2025. nasscom CoE. All Rights Reserved. Terms of Use & Disclaimer Privacy Policy
+
+Made with  by Pixielit Studios
